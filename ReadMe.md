@@ -1,3 +1,8 @@
+## Student Name: Daniel Adejare
+
+## Student ID: 24080
+
+
 # Hospital Appointment System
 
 A full-stack web application for managing hospital appointments, users (patients, doctors, admins), and prescriptions.  
