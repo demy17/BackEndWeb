@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <StartupProject>HospitalAppointmentSystem.API</StartupProject>
+  </PropertyGroup>
+</Project>

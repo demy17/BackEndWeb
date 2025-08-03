@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: hospital-appointment-api
+    runtime: docker
+    rootDir: HospitalAppointmentSystem.API
+    healthCheckPath: /api/Account/health
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
